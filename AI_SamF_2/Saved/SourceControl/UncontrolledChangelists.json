@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Player/BP_Player.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/BP_Enemy_Base.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IN/GKT1VQB4T0YKZWSQVLFI4I.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/OA/X3FNS89MJA6NCBYFBRKURN.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/UA/5CF92JQ9AINMN14W3CHZXP.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BT_Enemy_Base.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/AIC_Enemy_Base.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BB_Enemy_Base.uasset",
 				"C:/Users/fuhrmas1/Documents/Unreal Projects/AI_SamF_2/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
