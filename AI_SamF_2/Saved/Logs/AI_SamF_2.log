@@ -3719,3 +3719,504 @@ FPackageName: Skipped package /Game/My_Custom_Animations/Rifle/Gun/MM_Rifle_Fire
 [2026.04.20-23.24.22:263][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.20-23.24.22:263][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.20-23.24.22:263][771]AssetCheck: /Game/Enemies/AI/Tasks/BTT_ClearFocus Validating asset
+[2026.04.20-23.25.14:617][676]LogSlate: Window 'BT_Enemy_Base' being destroyed
+[2026.04.20-23.25.25:388][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3997.470215
+[2026.04.20-23.25.25:537][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.25.25:537][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3997.611328, Update Interval: 326.545624
+[2026.04.20-23.26.31:893][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.20-23.26.32:513][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-23.26.32:563][680]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/Tasks/BTT_ClearFocus] ([2] browsable assets)...
+[2026.04.20-23.26.32:563][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/Tasks/BTT_ClearFocus]
+[2026.04.20-23.26.32:565][680]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Tasks/BTT_ClearFocus
+[2026.04.20-23.26.32:565][680]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BTT_ClearFocusC034E977435C6B421CC9CD8C4C2F7287.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/Tasks/BTT_ClearFocus.uasset'
+[2026.04.20-23.26.32:572][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.229 ms (total: 3.87 sec)
+[2026.04.20-23.26.32:610][680]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-23.26.32:610][680]LogContentValidation: Enabled validators:
+[2026.04.20-23.26.32:610][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-23.26.32:610][680]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-23.26.32:610][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-23.26.32:610][680]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-23.26.32:610][680]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-23.26.32:610][680]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-23.26.32:610][680]AssetCheck: /Game/Enemies/AI/Tasks/BTT_ClearFocus Validating asset
+[2026.04.20-23.27.00:776][942]LogStreaming: Display: FlushAsyncLoading(702): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-23.27.24:702][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-23.27.24:763][641]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BT_Enemy_Base] ([1] browsable assets)...
+[2026.04.20-23.27.24:763][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BT_Enemy_Base]
+[2026.04.20-23.27.24:763][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BT_Enemy_Base" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BT_Enemy_Base.uasset" SILENT=true
+[2026.04.20-23.27.24:764][641]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BT_Enemy_Base
+[2026.04.20-23.27.24:765][641]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BT_Enemy_Base97B4D32C476D7D0400FB05B2B282DF56.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BT_Enemy_Base.uasset'
+[2026.04.20-23.27.24:773][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.059 ms (total: 3.94 sec)
+[2026.04.20-23.27.24:814][641]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-23.27.24:814][641]LogContentValidation: Enabled validators:
+[2026.04.20-23.27.24:814][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-23.27.24:814][641]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-23.27.24:814][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-23.27.24:814][641]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-23.27.24:814][641]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-23.27.24:814][641]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-23.27.24:814][641]AssetCheck: /Game/Enemies/AI/BT_Enemy_Base Validating asset
+[2026.04.20-23.27.26:023][743]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-23.27.26:027][743]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-23.27.26:027][743]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.20-23.27.26:028][743]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.279 ms (total: 36.283 ms)
+[2026.04.20-23.27.26:031][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-23.27.26:031][743]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.20-23.27.26:034][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002684s)
+[2026.04.20-23.27.26:034][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002712s)
+[2026.04.20-23.27.26:046][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.20-23.27.26:047][743]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.20-23.27.26:049][743]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-23.27.26:049][743]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-23.27.26:049][743]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-23.27.26:049][743]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-23.27.26:050][743]LogWorldPartition: Display: WorldPartition initialize took 894 us (total: 384.399 ms)
+[2026.04.20-23.27.26:050][743]LogPlayLevel: PIE: World Init took: (0.002264s)
+[2026.04.20-23.27.26:051][743]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.04.20-23.27.26:051][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-23.27.26:051][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-23.27.26:051][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-23.27.26:051][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-23.27.26:051][743]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-23.27.26:051][743]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-23.27.26:051][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-23.27.26:051][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-23.27.26:051][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-23.27.26:051][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-23.27.26:051][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-23.27.26:053][743]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-23.27.26:075][743]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.20-23.27.26:075][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-23.27.26:075][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-23.27.26:075][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-23.27.26:076][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.04.20-23.27.26:076][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.04.20-23.27.26:078][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.04.20-23.27.26:078][743]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.04.20-23.27.26:078][743]LogInit: FAudioDevice initialized with ID 20.
+[2026.04.20-23.27.26:078][743]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonMap'.
+[2026.04.20-23.27.26:078][743]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.20-23.27.26:080][743]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.20-23.27.26:085][743]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.04.20-16.27.26
+[2026.04.20-23.27.26:085][743]LogWorld: Bringing up level for play took: 0.004367
+[2026.04.20-23.27.26:088][743]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.04.20-23.27.26:091][743]PIE: Server logged in
+[2026.04.20-23.27.26:091][743]PIE: Play in editor total start time 0.064 seconds.
+[2026.04.20-23.27.27:391][892]LogBlueprintUserMessages: [BP_Enemy_Base_C_UAID_ACB4802E1C4C6ED302_1689514671] Attack Done
+[2026.04.20-23.27.30:558][272]LogBlueprintUserMessages: [BP_Enemy_Base_C_UAID_ACB4802E1C4C6ED302_1689514671] Attack Done
+[2026.04.20-23.27.32:624][520]LogBlueprintUserMessages: [BP_Enemy_Base_C_UAID_ACB4802E1C4C6ED302_1689514671] Attack Done
+[2026.04.20-23.27.38:749][255]LogBlueprintUserMessages: [BP_Enemy_Base_C_UAID_ACB4802E1C4C6ED302_1689514671] Attack Done
+[2026.04.20-23.27.41:491][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-23.27.41:492][579]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.20-23.27.41:492][579]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-23.27.41:492][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-23.27.41:492][579]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.20-23.27.41:498][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-23.27.41:501][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-23.27.41:514][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-23.27.41:514][579]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.20-23.27.41:514][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.04.20-23.27.41:516][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2026.04.20-23.27.41:522][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.20-23.27.41:581][580]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.04.20-23.31.30:565][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4362.644043
+[2026.04.20-23.31.31:565][332]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.31.31:565][332]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4363.310547, Update Interval: 346.947845
+[2026.04.20-23.33.28:165][287]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.20-23.33.28:175][287]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.20-23.33.28:179][287]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.20-23.33.28:193][288]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.20-23.33.33:512][926]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PatrolRoute
+[2026.04.20-23.33.33:528][926]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemies/AI/BP_PatrolRoute.
+[2026.04.20-23.33.33:528][926]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.20-23.33.40:173][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/AI/BP_PatrolRoute.BP_PatrolRoute
+[2026.04.20-23.33.40:174][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: ================================================
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Total job queries 11,655, among them cache hits 1 (0.01%), DDC hits 0 (0.00%), Duplicates 2,685 (23.04%)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Tracking 8,969 distinct input hashes that result in 8,477 distinct outputs (94.51%)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: RAM used: 6.36 MiB of 3.20 GiB budget. Usage: 0.19%
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Shaders Compiled: 8,969
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Jobs assigned 8,969, completed 8,969 (100%)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Average time worker was idle: 22.44 s
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Time job spent in pending queue: average 94.70 s, longest 201.47 s
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Job execution time: average 3.67 s, max 62.79 s
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Job life time (pending + execution): average 98.37 s, max 223.65
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Shader code size: average 14.291 KiB, min 1.16 KiB, max 330.166 KiB
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 240.45 s
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.58%
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Jobs were issued in 1,027 batches (only local compilation was used), average 8.73 jobs/batch
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Average processing rate: 37.30 jobs/sec
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Total thread time: 3,326.571 s
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Total thread preprocess time: 91.172 s
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Percentage time preprocessing: 2.74%
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Effective parallelization: 13.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 14.69 sec, max 47.45 sec, min 0.86 sec)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 11.04 sec, max 11.04 sec, min 11.04 sec)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.86 sec, max 6.76 sec, min 3.86 sec)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display:                                      FHairDebugPrintMemoryCS (compiled    1 times, average 3.05 sec, max 3.05 sec, min 3.05 sec)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 2.61 sec, max 5.52 sec, min 0.87 sec)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display:                                             FDeferredLightPS - 13.00% of total time (compiled  454 times, average 0.95 sec, max 1.62 sec, min 0.64 sec)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 11.93% of total time (compiled   27 times, average 14.69 sec, max 47.45 sec, min 0.86 sec)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 10.94% of total time (compiled  260 times, average 1.40 sec, max 3.43 sec, min 0.00 sec)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.33% of total time (compiled  480 times, average 0.37 sec, max 0.79 sec, min 0.16 sec)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 4.00% of total time (compiled   72 times, average 1.85 sec, max 2.85 sec, min 1.25 sec)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: === Material stats ===
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Materials Translated:    137
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Material Translation Only: 0.04 s (29%)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.20-23.33.58:888][213]LogShaderCompilers: Display: ================================================
+[2026.04.20-23.34.23:632][ 59]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/AI/BP_PatrolRoute.BP_PatrolRoute_C
+[2026.04.20-23.34.23:632][ 59]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/AI/BP_PatrolRoute.BP_PatrolRoute_C
+[2026.04.20-23.34.23:634][ 59]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/AI/BP_PatrolRoute.BP_PatrolRoute as actor: BP_PatrolRoute_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PatrolRoute_C_0
+[2026.04.20-23.34.23:634][ 59]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/AI/BP_PatrolRoute.BP_PatrolRoute as actor: BP_PatrolRoute_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PatrolRoute_C_0
+[2026.04.20-23.34.24:748][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.04.20-23.34.24:765][166]LogEditorActor: Deleted 0 Actors (0.057 secs)
+[2026.04.20-23.34.24:777][166]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/AI/BP_PatrolRoute.BP_PatrolRoute_C
+[2026.04.20-23.34.24:777][166]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/AI/BP_PatrolRoute.BP_PatrolRoute_C
+[2026.04.20-23.34.24:782][166]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/AI/BP_PatrolRoute.BP_PatrolRoute as actor: BP_PatrolRoute_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PatrolRoute_C_UAID_ACB4802E027678D302_1562779431
+[2026.04.20-23.34.24:782][166]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/AI/BP_PatrolRoute.BP_PatrolRoute as actor: BP_PatrolRoute_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PatrolRoute_C_UAID_ACB4802E027678D302_1562779431
+[2026.04.20-23.34.53:352][954]Cmd: TRANSACTION UNDO
+[2026.04.20-23.34.53:352][954]LogEditorTransaction: Undo Move Elements
+[2026.04.20-23.34.53:772][959]Cmd: TRANSACTION UNDO
+[2026.04.20-23.34.53:772][959]LogEditorTransaction: Undo Select Spline Segment
+[2026.04.20-23.34.54:406][ 17]Cmd: TRANSACTION UNDO
+[2026.04.20-23.34.54:406][ 17]LogEditorTransaction: Undo Select Spline Point
+[2026.04.20-23.34.54:948][ 71]Cmd: TRANSACTION UNDO
+[2026.04.20-23.34.54:948][ 71]LogEditorTransaction: Undo Move Elements
+[2026.04.20-23.37.51:288][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4743.373047
+[2026.04.20-23.37.51:438][406]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.37.51:438][406]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4743.515137, Update Interval: 342.457947
+[2026.04.20-23.42.29:696][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.04.20-23.42.31:908][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-23.42.31:938][678]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BP_PatrolRoute] ([2] browsable assets)...
+[2026.04.20-23.42.31:938][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BP_PatrolRoute]
+[2026.04.20-23.42.31:938][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BP_PatrolRoute" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BP_PatrolRoute.uasset" SILENT=true
+[2026.04.20-23.42.31:943][678]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BP_PatrolRoute
+[2026.04.20-23.42.31:943][678]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BP_PatrolRoute46F342E7456A5F59E9E246BFC92CEDA5.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BP_PatrolRoute.uasset'
+[2026.04.20-23.42.31:944][678]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemies/AI/BP_PatrolRoute.
+[2026.04.20-23.42.31:952][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.100 ms (total: 3.99 sec)
+[2026.04.20-23.42.32:004][678]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-23.42.32:004][678]LogContentValidation: Enabled validators:
+[2026.04.20-23.42.32:004][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-23.42.32:004][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-23.42.32:004][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-23.42.32:004][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-23.42.32:004][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-23.42.32:004][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-23.42.32:004][678]AssetCheck: /Game/Enemies/AI/BP_PatrolRoute Validating asset
+[2026.04.20-23.43.47:947][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-23.43.47:995][937]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/BP_Enemy_Base] ([2] browsable assets)...
+[2026.04.20-23.43.48:024][937]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/BP_Enemy_Base.BP_Enemy_Base]
+[2026.04.20-23.43.48:024][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BP_Enemy_Base]
+[2026.04.20-23.43.48:024][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy_Base" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/BP_Enemy_Base.uasset" SILENT=true
+[2026.04.20-23.43.48:028][937]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Enemy_Base
+[2026.04.20-23.43.48:029][937]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BP_Enemy_Base11B241F9478D76CB812E5F831166AD69.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/BP_Enemy_Base.uasset'
+[2026.04.20-23.43.48:035][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.970 ms (total: 4.07 sec)
+[2026.04.20-23.43.48:092][937]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-23.43.48:092][937]LogContentValidation: Enabled validators:
+[2026.04.20-23.43.48:092][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-23.43.48:092][937]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-23.43.48:092][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-23.43.48:092][937]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-23.43.48:092][937]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-23.43.48:092][937]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-23.43.48:092][937]AssetCheck: /Game/Enemies/BP_Enemy_Base Validating asset
+[2026.04.20-23.43.48:778][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.20-23.44.06:702][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.20-23.44.23:292][929]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.04.20-23.44.23:292][929]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.04.20-23.44.32:801][367]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5144.886230
+[2026.04.20-23.44.32:952][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.44.32:952][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5145.027832, Update Interval: 333.827942
+[2026.04.20-23.45.01:108][677]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 269259
+[2026.04.20-23.45.01:109][677]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2026.04.20-23.45.01:109][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-23.45.13:823][677]LogSlate: Window 'Save Asset As' being destroyed
+[2026.04.20-23.45.13:837][677]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute.BTT_MoveAlongPatrolRoute
+[2026.04.20-23.45.13:838][677]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.04.20-23.45.13:896][677]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute.
+[2026.04.20-23.45.17:143][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.20-23.45.17:147][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IN/GKT1VQB4T0YKZWSQVLFI4I_Auto4
+[2026.04.20-23.45.17:147][ 30]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/GKT1VQB4T0YKZWSQVLFI4I_Auto444BFF6464A99E7E4684964AC8BBDA0D4.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IN/GKT1VQB4T0YKZWSQVLFI4I_Auto4.uasset'
+[2026.04.20-23.45.17:149][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR_Auto4
+[2026.04.20-23.45.17:149][ 30]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BEYC27T14FHBU6LF2F60RR_Auto42318A9484C81D64215B3D3A29469E5CA.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR_Auto4.uasset'
+[2026.04.20-23.45.17:152][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/Y4/Y3OS7EGX3DHHJZ8K3XHH3B_Auto4
+[2026.04.20-23.45.17:152][ 30]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/Y3OS7EGX3DHHJZ8K3XHH3B_Auto46F77433F4ACB9EA8D2BA858A6757FA88.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/Y4/Y3OS7EGX3DHHJZ8K3XHH3B_Auto4.uasset'
+[2026.04.20-23.45.17:152][ 30]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.057
+[2026.04.20-23.45.17:152][ 30]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2026.04.20-23.45.17:153][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/BP_Enemy_Base] ([2] browsable assets)...
+[2026.04.20-23.45.17:188][ 30]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/BP_Enemy_Base.BP_Enemy_Base]
+[2026.04.20-23.45.17:188][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BP_Enemy_Base]
+[2026.04.20-23.45.17:193][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/BP_Enemy_Base_Auto4
+[2026.04.20-23.45.17:193][ 30]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BP_Enemy_Base_Auto49CD7E7284F96E0432FC24E93071BA907.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/Autosaves/Game/Enemies/BP_Enemy_Base_Auto4.uasset'
+[2026.04.20-23.45.17:194][ 30]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute] ([2] browsable assets)...
+[2026.04.20-23.45.17:194][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute]
+[2026.04.20-23.45.17:194][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute_Auto4
+[2026.04.20-23.45.17:196][ 30]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BTT_MoveAlongPatrolRoute_Auto4185A758C485A1D98EA735BA2D16D3873.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/Autosaves/Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute_Auto4.uasset'
+[2026.04.20-23.45.17:196][ 30]LogFileHelpers: Auto-saving content packages took 0.044
+[2026.04.20-23.46.19:264][204]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2026.04.20-23.46.19:272][204]LogContentBrowser: Creating deferred item: NewInterface
+[2026.04.20-23.46.19:279][205]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2026.04.20-23.46.25:258][923]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_EnemyAI
+[2026.04.20-23.46.25:262][923]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemies/AI/BPI_EnemyAI.
+[2026.04.20-23.46.25:263][923]LogContentBrowser: End creating deferred item NewInterface
+[2026.04.20-23.46.27:633][194]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/AI/BPI_EnemyAI.BPI_EnemyAI
+[2026.04.20-23.46.27:633][194]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.04.20-23.47.26:499][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.04.20-23.47.27:225][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-23.47.27:287][231]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BPI_EnemyAI] ([2] browsable assets)...
+[2026.04.20-23.47.27:287][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BPI_EnemyAI]
+[2026.04.20-23.47.27:287][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BPI_EnemyAI" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BPI_EnemyAI.uasset" SILENT=true
+[2026.04.20-23.47.27:288][231]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BPI_EnemyAI
+[2026.04.20-23.47.27:288][231]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BPI_EnemyAI33C4F6B144342F0CA2FD04BDF4A5466C.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BPI_EnemyAI.uasset'
+[2026.04.20-23.47.27:289][231]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemies/AI/BPI_EnemyAI.
+[2026.04.20-23.47.27:295][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.892 ms (total: 4.14 sec)
+[2026.04.20-23.47.27:350][231]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-23.47.27:350][231]LogContentValidation: Enabled validators:
+[2026.04.20-23.47.27:350][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-23.47.27:350][231]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-23.47.27:350][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-23.47.27:350][231]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-23.47.27:350][231]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-23.47.27:350][231]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-23.47.27:350][231]AssetCheck: /Game/Enemies/AI/BPI_EnemyAI Validating asset
+[2026.04.20-23.47.47:070][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-23.47.47:185][674]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BP_Enemy_Base] ([2] browsable assets)...
+[2026.04.20-23.47.47:185][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BP_Enemy_Base]
+[2026.04.20-23.47.47:185][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy_Base" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/BP_Enemy_Base.uasset" SILENT=true
+[2026.04.20-23.47.47:188][674]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Enemy_Base
+[2026.04.20-23.47.47:189][674]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BP_Enemy_Base26AB5D5C44A5E4E830F7FE89B38C305C.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/BP_Enemy_Base.uasset'
+[2026.04.20-23.47.47:207][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.620 ms (total: 4.28 sec)
+[2026.04.20-23.47.47:266][674]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-23.47.47:266][674]LogContentValidation: Enabled validators:
+[2026.04.20-23.47.47:266][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-23.47.47:266][674]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-23.47.47:266][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-23.47.47:266][674]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-23.47.47:266][674]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-23.47.47:266][674]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-23.47.47:266][674]AssetCheck: /Game/Enemies/BP_Enemy_Base Validating asset
+[2026.04.20-23.49.03:265][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.04.20-23.49.06:101][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-23.49.06:146][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/BP_Enemy_Base] ([2] browsable assets)...
+[2026.04.20-23.49.06:176][709]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/BP_Enemy_Base.BP_Enemy_Base]
+[2026.04.20-23.49.06:176][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BP_Enemy_Base]
+[2026.04.20-23.49.06:176][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy_Base" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/BP_Enemy_Base.uasset" SILENT=true
+[2026.04.20-23.49.06:181][709]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Enemy_Base
+[2026.04.20-23.49.06:181][709]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BP_Enemy_BaseE4120F764E3DB081A88A2DB27CC7DDA0.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/BP_Enemy_Base.uasset'
+[2026.04.20-23.49.06:188][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.740 ms (total: 4.37 sec)
+[2026.04.20-23.49.06:247][709]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-23.49.06:247][709]LogContentValidation: Enabled validators:
+[2026.04.20-23.49.06:247][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-23.49.06:247][709]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-23.49.06:247][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-23.49.06:247][709]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-23.49.06:247][709]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-23.49.06:247][709]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-23.49.06:247][709]AssetCheck: /Game/Enemies/BP_Enemy_Base Validating asset
+[2026.04.20-23.50.45:511][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5517.564941
+[2026.04.20-23.50.45:663][673]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.50.45:663][673]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5517.708496, Update Interval: 316.390259
+[2026.04.20-23.53.35:500][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.20-23.53.36:214][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-23.53.36:263][ 78]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute] ([2] browsable assets)...
+[2026.04.20-23.53.36:263][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute]
+[2026.04.20-23.53.36:268][ 78]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute
+[2026.04.20-23.53.36:268][ 78]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BTT_MoveAlongPatrolRouteD5F564244F56C9E4827E25A21ED2245F.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute.uasset'
+[2026.04.20-23.53.36:270][ 78]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute.
+[2026.04.20-23.53.36:278][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.329 ms (total: 4.43 sec)
+[2026.04.20-23.53.36:332][ 78]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-23.53.36:332][ 78]LogContentValidation: Enabled validators:
+[2026.04.20-23.53.36:332][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-23.53.36:332][ 78]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-23.53.36:332][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-23.53.36:332][ 78]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-23.53.36:332][ 78]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-23.53.36:332][ 78]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-23.53.36:332][ 78]AssetCheck: /Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute Validating asset
+[2026.04.20-23.54.13:511][918]LogStreaming: Display: FlushAsyncLoading(703): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.20-23.54.33:512][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-23.54.33:624][466]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BT_Enemy_Base] ([1] browsable assets)...
+[2026.04.20-23.54.33:624][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BT_Enemy_Base]
+[2026.04.20-23.54.33:624][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BT_Enemy_Base" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BT_Enemy_Base.uasset" SILENT=true
+[2026.04.20-23.54.33:626][466]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BT_Enemy_Base
+[2026.04.20-23.54.33:626][466]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BT_Enemy_BaseF22FB79D4E83756587C5E5AE935BA257.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BT_Enemy_Base.uasset'
+[2026.04.20-23.54.33:648][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.076 ms (total: 4.57 sec)
+[2026.04.20-23.54.33:716][466]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-23.54.33:716][466]LogContentValidation: Enabled validators:
+[2026.04.20-23.54.33:716][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-23.54.33:716][466]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-23.54.33:716][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-23.54.33:716][466]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-23.54.33:716][466]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-23.54.33:717][466]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-23.54.33:717][466]AssetCheck: /Game/Enemies/AI/BT_Enemy_Base Validating asset
+[2026.04.20-23.54.44:088][451]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-23.54.44:092][451]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-23.54.44:092][451]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.20-23.54.44:104][451]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 11.311 ms (total: 47.594 ms)
+[2026.04.20-23.54.44:108][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-23.54.44:108][451]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.20-23.54.44:111][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002799s)
+[2026.04.20-23.54.44:111][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002826s)
+[2026.04.20-23.54.44:125][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.04.20-23.54.44:127][451]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.20-23.54.44:128][451]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-23.54.44:128][451]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-23.54.44:128][451]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-23.54.44:128][451]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-23.54.44:129][451]LogWorldPartition: Display: WorldPartition initialize took 985 us (total: 385.385 ms)
+[2026.04.20-23.54.44:129][451]LogPlayLevel: PIE: World Init took: (0.002291s)
+[2026.04.20-23.54.44:129][451]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.04.20-23.54.44:129][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-23.54.44:129][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-23.54.44:129][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-23.54.44:129][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-23.54.44:129][451]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-23.54.44:129][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-23.54.44:129][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-23.54.44:129][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-23.54.44:129][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-23.54.44:129][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-23.54.44:130][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-23.54.44:132][451]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-23.54.44:157][451]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.20-23.54.44:158][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-23.54.44:158][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-23.54.44:158][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-23.54.44:159][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.04.20-23.54.44:159][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.04.20-23.54.44:160][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.04.20-23.54.44:160][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.04.20-23.54.44:160][451]LogInit: FAudioDevice initialized with ID 21.
+[2026.04.20-23.54.44:160][451]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2026.04.20-23.54.44:160][451]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.04.20-23.54.44:163][451]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.20-23.54.44:166][451]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.04.20-16.54.44
+[2026.04.20-23.54.44:167][451]LogWorld: Bringing up level for play took: 0.004259
+[2026.04.20-23.54.44:169][451]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.04.20-23.54.44:172][451]PIE: Server logged in
+[2026.04.20-23.54.44:173][451]PIE: Play in editor total start time 0.081 seconds.
+[2026.04.20-23.54.54:060][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-23.54.54:060][606]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.20-23.54.54:060][606]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-23.54.54:061][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-23.54.54:061][606]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.20-23.54.54:066][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-23.54.54:069][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-23.54.54:085][606]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.20-23.54.54:085][606]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.04.20-23.54.54:085][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.04.20-23.54.54:087][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2026.04.20-23.54.54:090][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-23.54.54:092][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.04.20-23.54.54:186][607]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.04.20-23.55.27:743][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.20-23.55.27:746][416]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IN/GKT1VQB4T0YKZWSQVLFI4I_Auto5
+[2026.04.20-23.55.27:746][416]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/GKT1VQB4T0YKZWSQVLFI4I_Auto518CFF0AD4551A05260FD64ABC1890E53.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IN/GKT1VQB4T0YKZWSQVLFI4I_Auto5.uasset'
+[2026.04.20-23.55.27:756][416]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2026.04.20-23.55.27:756][416]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2026.04.20-23.55.44:117][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-23.55.44:175][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BT_Enemy_Base] ([1] browsable assets)...
+[2026.04.20-23.55.44:175][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BT_Enemy_Base]
+[2026.04.20-23.55.44:175][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BT_Enemy_Base" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BT_Enemy_Base.uasset" SILENT=true
+[2026.04.20-23.55.44:176][371]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BT_Enemy_Base
+[2026.04.20-23.55.44:177][371]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BT_Enemy_BaseEB13C88747695B5763778DB2A185D231.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BT_Enemy_Base.uasset'
+[2026.04.20-23.55.44:186][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.586 ms (total: 4.63 sec)
+[2026.04.20-23.55.44:225][371]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-23.55.44:225][371]LogContentValidation: Enabled validators:
+[2026.04.20-23.55.44:225][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-23.55.44:225][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-23.55.44:225][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-23.55.44:225][371]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-23.55.44:225][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-23.55.44:225][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-23.55.44:225][371]AssetCheck: /Game/Enemies/AI/BT_Enemy_Base Validating asset
+[2026.04.20-23.56.55:403][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5887.521484
+[2026.04.20-23.56.56:399][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-23.56.56:399][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5888.188477, Update Interval: 343.419281
+[2026.04.20-23.57.32:752][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.04.20-23.57.34:939][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-23.57.35:006][313]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/BP_Enemy_Base] ([2] browsable assets)...
+[2026.04.20-23.57.35:039][313]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/BP_Enemy_Base.BP_Enemy_Base]
+[2026.04.20-23.57.35:039][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BP_Enemy_Base]
+[2026.04.20-23.57.35:039][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy_Base" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/BP_Enemy_Base.uasset" SILENT=true
+[2026.04.20-23.57.35:045][313]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Enemy_Base
+[2026.04.20-23.57.35:045][313]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/BP_Enemy_Base321C8E384D1C795631FC76872F51A3CB.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/BP_Enemy_Base.uasset'
+[2026.04.20-23.57.35:052][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.461 ms (total: 4.75 sec)
+[2026.04.20-23.57.35:097][313]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-23.57.35:097][313]LogContentValidation: Enabled validators:
+[2026.04.20-23.57.35:097][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-23.57.35:097][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-23.57.35:097][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-23.57.35:097][313]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-23.57.35:097][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-23.57.35:097][313]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-23.57.35:097][313]AssetCheck: /Game/Enemies/BP_Enemy_Base Validating asset
+[2026.04.20-23.57.37:802][610]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.20-23.57.37:807][610]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.20-23.57.37:807][610]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.20-23.57.37:809][610]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.555 ms (total: 49.149 ms)
+[2026.04.20-23.57.37:812][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.20-23.57.37:845][610]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.20-23.57.37:851][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004551s)
+[2026.04.20-23.57.37:851][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004591s)
+[2026.04.20-23.57.37:866][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.04.20-23.57.37:868][610]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.20-23.57.37:869][610]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.20-23.57.37:869][610]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.20-23.57.37:869][610]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.20-23.57.37:869][610]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.20-23.57.37:870][610]LogWorldPartition: Display: WorldPartition initialize took 979 us (total: 386.365 ms)
+[2026.04.20-23.57.37:870][610]LogPlayLevel: PIE: World Init took: (0.002149s)
+[2026.04.20-23.57.37:870][610]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.04.20-23.57.37:870][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.20-23.57.37:870][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.20-23.57.37:870][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.20-23.57.37:870][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.20-23.57.37:870][610]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.20-23.57.37:870][610]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.20-23.57.37:870][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.20-23.57.37:870][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.20-23.57.37:870][610]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.20-23.57.37:870][610]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.20-23.57.37:870][610]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.20-23.57.37:872][610]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.20-23.57.37:896][610]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.04.20-23.57.37:896][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.20-23.57.37:896][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.20-23.57.37:896][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.20-23.57.37:897][610]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.04.20-23.57.37:897][610]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.04.20-23.57.37:899][610]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.04.20-23.57.37:899][610]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.04.20-23.57.37:899][610]LogInit: FAudioDevice initialized with ID 22.
+[2026.04.20-23.57.37:899][610]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2026.04.20-23.57.37:899][610]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.04.20-23.57.37:902][610]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.20-23.57.37:906][610]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.04.20-16.57.37
+[2026.04.20-23.57.37:907][610]LogWorld: Bringing up level for play took: 0.004120
+[2026.04.20-23.57.37:908][610]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.04.20-23.57.37:912][610]PIE: Server logged in
+[2026.04.20-23.57.37:913][610]PIE: Play in editor total start time 0.105 seconds.
+[2026.04.20-23.57.45:459][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-23.57.45:459][505]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.20-23.57.45:459][505]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.20-23.57.45:460][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-23.57.45:460][505]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.20-23.57.45:465][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.20-23.57.45:469][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.20-23.57.45:483][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.20-23.57.45:483][505]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.04.20-23.57.45:483][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.04.20-23.57.45:486][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2026.04.20-23.57.45:489][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.20-23.57.45:491][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.04.20-23.57.45:586][506]LogPlayLevel: Display: Destroying online subsystem :Context_36
