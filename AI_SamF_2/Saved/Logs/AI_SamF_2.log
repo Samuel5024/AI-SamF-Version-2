@@ -2094,3 +2094,282 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.20-22.49.07:978][ 11]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
 [2026.04.20-22.49.07:978][ 11]LogContentBrowser: End creating deferred item NewFolder
 [2026.04.20-22.49.29:788][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.20-22.51.20:128][763]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.20:506][763]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.20:506][763]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.20:539][763]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.20-22.51.20:643][764]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.20:966][764]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.20:966][764]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.20:998][764]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.04.20-22.51.20:998][764]LoadErrors: Warning: While trying to load package /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD, a dependent package /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.uasset'. Perhaps it has been deleted or was not synced?
+
+[2026.04.20-22.51.21:028][765]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.21:339][765]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.21:339][765]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.21:429][765]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2026.04.20-22.51.21:429][765]LoadErrors: Warning: While trying to load package /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU, a dependent package /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/My_Custom_Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.uasset'. Perhaps it has been deleted or was not synced?
+
+[2026.04.20-22.51.21:461][766]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.21:771][766]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.21:771][766]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.21:902][767]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.22:206][767]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.22:206][767]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.22:334][768]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.22:640][768]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.22:640][768]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.22:761][769]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.23:065][769]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.23:065][769]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.23:196][770]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.23:508][770]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.23:508][770]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.23:638][771]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.23:945][771]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.23:945][771]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.24:066][772]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.24:369][772]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.24:369][772]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.24:511][773]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.24:822][773]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.24:822][773]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.24:951][774]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.25:258][774]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.25:258][774]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.25:387][775]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.25:707][775]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.25:707][775]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.25:839][776]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.26:159][776]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.26:159][776]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.26:327][777]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.51.26:646][777]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.51.26:646][777]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.51.26:750][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-22.51.26:914][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC] ([1] browsable assets)...
+[2026.04.20-22.51.26:916][778]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.04.20-22.51.27:052][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.MM_Rifle_Idle_ADS_AO_CC]
+[2026.04.20-22.51.27:052][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC]
+[2026.04.20-22.51.27:063][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC
+[2026.04.20-22.51.27:064][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_CC4624C0394BE835423AF3F28B5F4734D5.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.uasset'
+[2026.04.20-22.51.27:064][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD] ([1] browsable assets)...
+[2026.04.20-22.51.27:087][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD.MM_Rifle_Idle_ADS_AO_CD]
+[2026.04.20-22.51.27:087][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD]
+[2026.04.20-22.51.27:096][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD
+[2026.04.20-22.51.27:096][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_CDCF43638849204C96CBDEE4877FE6518B.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD.uasset'
+[2026.04.20-22.51.27:097][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU] ([1] browsable assets)...
+[2026.04.20-22.51.27:123][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU.MM_Rifle_Idle_ADS_AO_CU]
+[2026.04.20-22.51.27:123][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU]
+[2026.04.20-22.51.27:134][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU
+[2026.04.20-22.51.27:134][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_CU9D7C9E6C4D9D12CD17BE90B844C24F15.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU.uasset'
+[2026.04.20-22.51.27:135][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBC] ([1] browsable assets)...
+[2026.04.20-22.51.27:174][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBC.MM_Rifle_Idle_ADS_AO_LBC]
+[2026.04.20-22.51.27:174][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBC]
+[2026.04.20-22.51.27:183][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBC
+[2026.04.20-22.51.27:184][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_LBC079C2A1D4A119DDE14658194458E45CF.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBC.uasset'
+[2026.04.20-22.51.27:185][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBD] ([1] browsable assets)...
+[2026.04.20-22.51.27:211][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBD.MM_Rifle_Idle_ADS_AO_LBD]
+[2026.04.20-22.51.27:211][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBD]
+[2026.04.20-22.51.27:220][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBD
+[2026.04.20-22.51.27:220][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_LBD1155B1D548CC5C0367C2649778C01274.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBD.uasset'
+[2026.04.20-22.51.27:221][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBU] ([1] browsable assets)...
+[2026.04.20-22.51.27:246][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBU.MM_Rifle_Idle_ADS_AO_LBU]
+[2026.04.20-22.51.27:246][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBU]
+[2026.04.20-22.51.27:254][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBU
+[2026.04.20-22.51.27:255][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_LBU58DDBAF34F21DEEAF72F4389290ABAF2.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBU.uasset'
+[2026.04.20-22.51.27:255][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LC] ([1] browsable assets)...
+[2026.04.20-22.51.27:281][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LC.MM_Rifle_Idle_ADS_AO_LC]
+[2026.04.20-22.51.27:281][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LC]
+[2026.04.20-22.51.27:289][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LC
+[2026.04.20-22.51.27:289][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_LC03DDAF4941EA82ABBC40C79C6AF782F4.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LC.uasset'
+[2026.04.20-22.51.27:290][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LD] ([1] browsable assets)...
+[2026.04.20-22.51.27:315][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LD.MM_Rifle_Idle_ADS_AO_LD]
+[2026.04.20-22.51.27:315][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LD]
+[2026.04.20-22.51.27:327][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LD
+[2026.04.20-22.51.27:328][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_LDCC9238654E4E2754AB01AE9035E23DCD.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LD.uasset'
+[2026.04.20-22.51.27:328][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LU] ([1] browsable assets)...
+[2026.04.20-22.51.27:364][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LU.MM_Rifle_Idle_ADS_AO_LU]
+[2026.04.20-22.51.27:364][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LU]
+[2026.04.20-22.51.27:372][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LU
+[2026.04.20-22.51.27:372][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_LU333C686D4A915349BB6469B17CE635EC.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LU.uasset'
+[2026.04.20-22.51.27:373][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBC] ([1] browsable assets)...
+[2026.04.20-22.51.27:397][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBC.MM_Rifle_Idle_ADS_AO_RBC]
+[2026.04.20-22.51.27:397][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBC]
+[2026.04.20-22.51.27:406][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBC
+[2026.04.20-22.51.27:406][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_RBCC5ABE551479EB7DDFA17CF88527BC1C7.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBC.uasset'
+[2026.04.20-22.51.27:406][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBD] ([1] browsable assets)...
+[2026.04.20-22.51.27:429][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBD.MM_Rifle_Idle_ADS_AO_RBD]
+[2026.04.20-22.51.27:429][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBD]
+[2026.04.20-22.51.27:437][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBD
+[2026.04.20-22.51.27:438][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_RBDE1EF85C64DC36162E635859CE79C29A2.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBD.uasset'
+[2026.04.20-22.51.27:438][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBU] ([1] browsable assets)...
+[2026.04.20-22.51.27:462][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBU.MM_Rifle_Idle_ADS_AO_RBU]
+[2026.04.20-22.51.27:462][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBU]
+[2026.04.20-22.51.27:470][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBU
+[2026.04.20-22.51.27:471][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_RBU1367BCAE455FDEE6775ED7AD8061EB48.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBU.uasset'
+[2026.04.20-22.51.27:472][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RC] ([1] browsable assets)...
+[2026.04.20-22.51.27:495][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RC.MM_Rifle_Idle_ADS_AO_RC]
+[2026.04.20-22.51.27:495][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RC]
+[2026.04.20-22.51.27:503][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RC
+[2026.04.20-22.51.27:503][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_RC6819F48045B7B888851F37B6EAA32C4A.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RC.uasset'
+[2026.04.20-22.51.27:504][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RD] ([1] browsable assets)...
+[2026.04.20-22.51.27:521][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RD.MM_Rifle_Idle_ADS_AO_RD]
+[2026.04.20-22.51.27:521][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RD]
+[2026.04.20-22.51.27:531][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RD
+[2026.04.20-22.51.27:531][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_RDE85D25524E247EDCA39AB5AE8CB565BB.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RD.uasset'
+[2026.04.20-22.51.27:532][778]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RU] ([1] browsable assets)...
+[2026.04.20-22.51.27:549][778]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RU.MM_Rifle_Idle_ADS_AO_RU]
+[2026.04.20-22.51.27:549][778]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RU]
+[2026.04.20-22.51.27:557][778]LogSavePackage: Moving output files for package: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RU
+[2026.04.20-22.51.27:557][778]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/MM_Rifle_Idle_ADS_AO_RUCE2B895E4A751397C18EA7B6DE0F2526.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RU.uasset'
+[2026.04.20-22.51.27:576][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 826.372 ms (total: 1.55 sec)
+[2026.04.20-22.51.27:659][779]LogContentValidation: Display: Starting to validate 15 assets
+[2026.04.20-22.51.27:659][779]LogContentValidation: Enabled validators:
+[2026.04.20-22.51.27:659][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-22.51.27:659][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-22.51.27:659][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-22.51.27:659][779]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-22.51.27:659][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-22.51.27:659][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBC Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBD Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBU Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LC Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LD Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LU Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBC Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBD Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBU Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RC Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RD Validating asset
+[2026.04.20-22.51.27:659][779]AssetCheck: /Game/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RU Validating asset
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_CC from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CC.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_CD from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CD.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_CU from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_CU.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_LBC from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBC.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_LBD from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBD.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_LBU from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LBU.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_LC from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LC.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_LD from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LD.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_LU from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_LU.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_RBC from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBC.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_RBD from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBD.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_RBU from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RBU.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_RC from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RC.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_RD from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RD.FBX.
+[2026.04.20-22.51.30:579][125]AssetReimport: Reimported asset MM_Rifle_Idle_ADS_AO_RU from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Animations/Rifle/Aim_Offset/MM_Rifle_Idle_ADS_AO_RU.FBX.
+[2026.04.20-22.51.46:212][439]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AnimStarterPack/Ue4ASP_Character.
+[2026.04.20-22.51.46:214][439]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.
+[2026.04.20-22.52.14:632][796]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.52.14:986][796]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.52.14:986][796]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.52.15:091][797]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.52.15:561][797]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.52.15:561][797]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.52.15:715][798]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.52.16:173][798]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.52.16:173][798]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.52.16:232][799]LogSkeletalMesh: Building Skeletal Mesh SK_Rifle...
+[2026.04.20-22.52.16:395][799]LogSkeletalMesh: Built Skeletal Mesh [0.16s] /Game/StaticMeshes/Rifle/SK_Rifle.SK_Rifle
+[2026.04.20-22.52.18:745][799]LogSlate: Window 'Message' being destroyed
+[2026.04.20-22.52.18:779][799]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.52.18:907][799]LogSkeletalMesh: Building Skeletal Mesh SK_Rifle...
+[2026.04.20-22.52.19:058][799]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/StaticMeshes/Rifle/SK_Rifle.SK_Rifle
+[2026.04.20-22.52.19:077][799]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.52.19:077][799]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.52.19:182][800]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.52.19:618][800]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.52.19:618][800]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.52.19:784][801]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.52.20:087][801]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.52.20:087][801]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.52.20:183][802]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.52.20:608][802]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.52.20:608][802]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.52.20:708][803]LogSkeletalMesh: Building Skeletal Mesh SK_Pistol...
+[2026.04.20-22.52.20:768][803]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/StaticMeshes/Pistol/SK_Pistol.SK_Pistol
+[2026.04.20-22.52.21:683][803]LogSlate: Window 'Message' being destroyed
+[2026.04.20-22.52.21:705][803]LogInterchangeEngine: [Pending] Importing
+[2026.04.20-22.52.21:754][803]LogSkeletalMesh: Building Skeletal Mesh SK_Pistol...
+[2026.04.20-22.52.21:807][803]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/StaticMeshes/Pistol/SK_Pistol.SK_Pistol
+[2026.04.20-22.52.21:821][803]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.04.20-22.52.21:821][803]LogInterchangeEngine: [Success] Import Done
+[2026.04.20-22.52.21:891][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-22.52.22:243][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Rifle/T_Rifle_D] ([1] browsable assets)...
+[2026.04.20-22.52.22:259][804]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StaticMeshes/Rifle/T_Rifle_D.T_Rifle_D]
+[2026.04.20-22.52.22:259][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Rifle/T_Rifle_D]
+[2026.04.20-22.52.22:323][804]LogSavePackage: Moving output files for package: /Game/StaticMeshes/Rifle/T_Rifle_D
+[2026.04.20-22.52.22:324][804]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/T_Rifle_DC4DEFB674C29C70801226FAF0B14908D.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Rifle/T_Rifle_D.uasset'
+[2026.04.20-22.52.22:325][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Rifle/T_Rifle_Combined_N] ([1] browsable assets)...
+[2026.04.20-22.52.22:327][804]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StaticMeshes/Rifle/T_Rifle_Combined_N.T_Rifle_Combined_N]
+[2026.04.20-22.52.22:327][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Rifle/T_Rifle_Combined_N]
+[2026.04.20-22.52.22:495][804]LogSavePackage: Moving output files for package: /Game/StaticMeshes/Rifle/T_Rifle_Combined_N
+[2026.04.20-22.52.22:495][804]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/T_Rifle_Combined_N275461F84AF9B5B5B94D09AA60779AEC.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Rifle/T_Rifle_Combined_N.uasset'
+[2026.04.20-22.52.22:497][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Rifle/T_Rifle_AORM] ([1] browsable assets)...
+[2026.04.20-22.52.22:499][804]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StaticMeshes/Rifle/T_Rifle_AORM.T_Rifle_AORM]
+[2026.04.20-22.52.22:499][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Rifle/T_Rifle_AORM]
+[2026.04.20-22.52.22:570][804]LogSavePackage: Moving output files for package: /Game/StaticMeshes/Rifle/T_Rifle_AORM
+[2026.04.20-22.52.22:570][804]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/T_Rifle_AORM02943F844322C3AFD6CF12B501837116.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Rifle/T_Rifle_AORM.uasset'
+[2026.04.20-22.52.22:572][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Rifle/SK_Rifle] ([1] browsable assets)...
+[2026.04.20-22.52.22:572][804]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.20-22.52.22:605][804]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/StaticMeshes/Rifle/SK_Rifle.SK_Rifle]
+[2026.04.20-22.52.22:605][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Rifle/SK_Rifle]
+[2026.04.20-22.52.22:605][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Rifle/SK_Rifle" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Rifle/SK_Rifle.uasset" SILENT=true
+[2026.04.20-22.52.22:616][804]LogSavePackage: Moving output files for package: /Game/StaticMeshes/Rifle/SK_Rifle
+[2026.04.20-22.52.22:617][804]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/SK_Rifle12B58912475130E9259808A66D5A7D46.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Rifle/SK_Rifle.uasset'
+[2026.04.20-22.52.22:618][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Pistol/T_Pistol_N] ([1] browsable assets)...
+[2026.04.20-22.52.22:619][804]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StaticMeshes/Pistol/T_Pistol_N.T_Pistol_N]
+[2026.04.20-22.52.22:619][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Pistol/T_Pistol_N]
+[2026.04.20-22.52.22:689][804]LogSavePackage: Moving output files for package: /Game/StaticMeshes/Pistol/T_Pistol_N
+[2026.04.20-22.52.22:690][804]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/T_Pistol_N55D68A8543E6142FDF40D39C03185D6C.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Pistol/T_Pistol_N.uasset'
+[2026.04.20-22.52.22:691][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Pistol/T_Pistol_D] ([1] browsable assets)...
+[2026.04.20-22.52.22:694][804]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StaticMeshes/Pistol/T_Pistol_D.T_Pistol_D]
+[2026.04.20-22.52.22:694][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Pistol/T_Pistol_D]
+[2026.04.20-22.52.22:756][804]LogSavePackage: Moving output files for package: /Game/StaticMeshes/Pistol/T_Pistol_D
+[2026.04.20-22.52.22:756][804]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/T_Pistol_D147406F54BCE58B89CEFC084DCCA20EE.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Pistol/T_Pistol_D.uasset'
+[2026.04.20-22.52.22:758][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Pistol/T_Pistol_AORM] ([1] browsable assets)...
+[2026.04.20-22.52.22:760][804]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StaticMeshes/Pistol/T_Pistol_AORM.T_Pistol_AORM]
+[2026.04.20-22.52.22:760][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Pistol/T_Pistol_AORM]
+[2026.04.20-22.52.22:846][804]LogSavePackage: Moving output files for package: /Game/StaticMeshes/Pistol/T_Pistol_AORM
+[2026.04.20-22.52.22:846][804]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/T_Pistol_AORM20DDC72C4AEC336F5E2D5EAA6CE4B12B.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Pistol/T_Pistol_AORM.uasset'
+[2026.04.20-22.52.22:848][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StaticMeshes/Pistol/SK_Pistol] ([1] browsable assets)...
+[2026.04.20-22.52.22:848][804]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.20-22.52.22:860][804]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/StaticMeshes/Pistol/SK_Pistol.SK_Pistol]
+[2026.04.20-22.52.22:860][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/StaticMeshes/Pistol/SK_Pistol]
+[2026.04.20-22.52.22:865][804]LogSavePackage: Moving output files for package: /Game/StaticMeshes/Pistol/SK_Pistol
+[2026.04.20-22.52.22:866][804]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Saved/SK_Pistol513012714616A82E290C19A44BD09205.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Pistol/SK_Pistol.uasset'
+[2026.04.20-22.52.22:880][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 989.210 ms (total: 2.54 sec)
+[2026.04.20-22.52.22:970][805]LogContentValidation: Display: Starting to validate 8 assets
+[2026.04.20-22.52.22:970][805]LogContentValidation: Enabled validators:
+[2026.04.20-22.52.22:970][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-22.52.22:970][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-22.52.22:970][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-22.52.22:970][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-22.52.22:970][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-22.52.22:970][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-22.52.22:970][805]AssetCheck: /Game/StaticMeshes/Rifle/T_Rifle_D Validating asset
+[2026.04.20-22.52.22:970][805]AssetCheck: /Game/StaticMeshes/Rifle/T_Rifle_Combined_N Validating asset
+[2026.04.20-22.52.22:970][805]AssetCheck: /Game/StaticMeshes/Rifle/T_Rifle_AORM Validating asset
+[2026.04.20-22.52.22:970][805]AssetCheck: /Game/StaticMeshes/Rifle/SK_Rifle Validating asset
+[2026.04.20-22.52.22:970][805]AssetCheck: /Game/StaticMeshes/Pistol/T_Pistol_N Validating asset
+[2026.04.20-22.52.22:970][805]AssetCheck: /Game/StaticMeshes/Pistol/T_Pistol_D Validating asset
+[2026.04.20-22.52.22:970][805]AssetCheck: /Game/StaticMeshes/Pistol/T_Pistol_AORM Validating asset
+[2026.04.20-22.52.22:970][805]AssetCheck: /Game/StaticMeshes/Pistol/SK_Pistol Validating asset
+[2026.04.20-22.52.25:883][145]AssetReimport: Reimported asset T_Rifle_D from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Rifle/T_Rifle_D.PNG.
+[2026.04.20-22.52.25:883][145]AssetReimport: Reimported asset T_Rifle_Combined_N from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Rifle/T_Rifle_Combined_N.PNG.
+[2026.04.20-22.52.25:883][145]AssetReimport: Reimported asset T_Rifle_AORM from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Rifle/T_Rifle_AORM.PNG.
+[2026.04.20-22.52.25:883][145]AssetReimport: Warning: Reimport for asset /Game/StaticMeshes/Rifle/MI_Weapon_Rifle.MI_Weapon_Rifle is unavailable. Please import them manually.
+[2026.04.20-22.52.25:883][145]AssetReimport: Reimported asset SK_Rifle from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Rifle/SK_Rifle.FBX.
+[2026.04.20-22.52.25:883][145]AssetReimport: Reimported asset T_Pistol_N from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Pistol/T_Pistol_N.png.
+[2026.04.20-22.52.25:883][145]AssetReimport: Reimported asset T_Pistol_D from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Pistol/T_Pistol_D.png.
+[2026.04.20-22.52.25:883][145]AssetReimport: Reimported asset T_Pistol_AORM from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Pistol/T_Pistol_AORM.PNG.
+[2026.04.20-22.52.25:883][145]AssetReimport: Warning: Reimport for asset /Game/StaticMeshes/Pistol/MI_Weapon_Pistol.MI_Weapon_Pistol is unavailable. Please import them manually.
+[2026.04.20-22.52.25:883][145]AssetReimport: Reimported asset SK_Pistol from C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Pistol/SK_Pistol.FBX.
+[2026.04.20-22.52.41:078][895]LogSlate: Window 'Message Log' being destroyed
+[2026.04.20-22.52.41:083][895]LogSlate: Window 'Message Log' being destroyed
