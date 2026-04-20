@@ -39,6 +39,8 @@
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Pistol/T_Pistol_D.uasset",
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Pistol/T_Pistol_AORM.uasset",
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/StaticMeshes/Pistol/SK_Pistol.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/Tasks/BTT_FocusTarget.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/Tasks/BTT_ClearFocus.uasset",
 				"C:/Users/fuhrmas1/Documents/Unreal Projects/AI_SamF_2/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
