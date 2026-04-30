@@ -44,12 +44,13 @@
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BP_PatrolRoute.uasset",
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/BPI_EnemyAI.uasset",
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute.uasset",
-				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/Enums/3_MovementSpeed.uasset",
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/Enums/E_MovementSpeed.uasset",
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/Tasks/BTT_SetMovementSpeed.uasset",
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/Y4/Y3OS7EGX3DHHJZ8K3XHH3B.uasset",
 				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/Decorators/BTD_HasPatrolRoute.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/Enums/E_AIStates.uasset",
+				"C:/Users/fuhrmas1/Documents/GitHub/AI-SamF-Version-2/AI_SamF_2/Content/Enemies/AI/Enums/3_MovementSpeed.uasset",
 				"C:/Users/fuhrmas1/Documents/Unreal Projects/AI_SamF_2/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
